@@ -1,1 +1,2 @@
 fix file in git code
+fixed another bug
