@@ -1,4 +1,5 @@
 This is my first file adding more content
 okay
 i am fine
-add another marketing message 
+add another marketing message
+add footer notes 
